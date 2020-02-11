@@ -1,5 +1,4 @@
 # FuryAddons
-Required Addons
-KLHThreatmeter
-BigWigs
-SuperMacro
+* KLHThreatmeter
+* BigWigs
+* SuperMacro
