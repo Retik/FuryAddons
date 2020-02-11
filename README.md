@@ -1,4 +1,4 @@
-# Required Addons - Put these in your WoW\Interface\Addons directory
+# Required Addons - Put these in your Addons directory
 * KLHThreatmeter
 * BigWigs
 * SuperMacro
